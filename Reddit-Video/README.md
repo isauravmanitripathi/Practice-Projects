@@ -1,7 +1,4 @@
-# Reddit Video Generator
-
-*This project is further explained in [this video](https://youtu.be/ZmSb3LZDdf0)*
-
+# Generate Video From  Reddit
 *This code is meant only for educational reference and will not be maintained. Because of this, the repo is archived and is in a read-only state*
 
 ---
